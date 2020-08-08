@@ -1,0 +1,2 @@
+# jinkumips
+A MIPS CPU 
